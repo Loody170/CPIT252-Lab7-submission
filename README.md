@@ -1,7 +1,7 @@
 # CPIT252-Lab7-submission
 This is the submission file for lab 7 activity for CPIT252.
 
-![output]questions.jpg)
+![]questions.jpg)
 
 A2: only 4 flyweights
 
